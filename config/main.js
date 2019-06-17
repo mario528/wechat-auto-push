@@ -1,4 +1,5 @@
 module.exports = {
+    PERIODICAL: '282',
     COUNTRY: 'china',
     CITY: 'beijing',
     LOCATION: 'fengtai-district',
