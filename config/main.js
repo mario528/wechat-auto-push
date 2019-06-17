@@ -1,4 +1,7 @@
 module.exports = {
+    NICKNAME: '🐻',
+    NAME: '三岁',
+    
     PERIODICAL: '282',
     COUNTRY: 'china',
     CITY: 'beijing',
