@@ -1,6 +1,6 @@
 module.exports = {
-    NICKNAME: '🐻',
-    NAME: '三岁',
+    NICKNAME: '',
+    NAME: '',
     
     PERIODICAL: '282',
     COUNTRY: 'china',
